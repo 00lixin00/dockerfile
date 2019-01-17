@@ -1,8 +1,8 @@
-appVersion: 
+appVersion: v1.0
 description: openjdk
-name: openjdk-0q6l0v
+name: openjdk
 version: v1.0
 kewords:
 - openjdk
-home: https://openjdk.org/
-icon: 
+home: http://openjdk.java.net/
+icon: http://openjdk.java.net/images/openjdk.png
