@@ -1,8 +1,8 @@
-appVersion: v1.0
+appVersion: 1.0.0
 description: openjdk
 name: openjdk
-version: v1.0
+version: 1.0.0
 kewords:
 - openjdk
-home: http://openjdk.java.net/
-icon: http://openjdk.java.net/images/openjdk.png
+home: https://openjdk.io/
+icon: http://hub.i-soft.com.cn:5081/openjdk.png
